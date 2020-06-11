@@ -1,0 +1,14 @@
+C:\Users\anselmo.ortega\source\repos\DepuraNumExt\DepuraNumExt\bin\Debug\DepuraNumExt.exe.config
+C:\Users\anselmo.ortega\source\repos\DepuraNumExt\DepuraNumExt\bin\Debug\DepuraNumExt.exe
+C:\Users\anselmo.ortega\source\repos\DepuraNumExt\DepuraNumExt\bin\Debug\DepuraNumExt.pdb
+C:\Users\anselmo.ortega\source\repos\DepuraNumExt\DepuraNumExt\obj\Debug\DepuraNumExt.csprojAssemblyReference.cache
+C:\Users\anselmo.ortega\source\repos\DepuraNumExt\DepuraNumExt\obj\Debug\DepuraNumExt.Properties.Resources.resources
+C:\Users\anselmo.ortega\source\repos\DepuraNumExt\DepuraNumExt\obj\Debug\DepuraNumExt.csproj.GenerateResource.cache
+C:\Users\anselmo.ortega\source\repos\DepuraNumExt\DepuraNumExt\obj\Debug\DepuraNumExt.csproj.CoreCompileInputs.cache
+C:\Users\anselmo.ortega\source\repos\DepuraNumExt\DepuraNumExt\obj\Debug\DepuraNumExt.exe
+C:\Users\anselmo.ortega\source\repos\DepuraNumExt\DepuraNumExt\obj\Debug\DepuraNumExt.pdb
+C:\Users\anselmo.ortega\source\repos\DepuraNumExt\DepuraNumExt\bin\Debug\DepuraNumExt.exe.manifest
+C:\Users\anselmo.ortega\source\repos\DepuraNumExt\DepuraNumExt\bin\Debug\DepuraNumExt.application
+C:\Users\anselmo.ortega\source\repos\DepuraNumExt\DepuraNumExt\obj\Debug\DepuraNumExt.DepuraNumExt.resources
+C:\Users\anselmo.ortega\source\repos\DepuraNumExt\DepuraNumExt\obj\Debug\DepuraNumExt.exe.manifest
+C:\Users\anselmo.ortega\source\repos\DepuraNumExt\DepuraNumExt\obj\Debug\DepuraNumExt.application
